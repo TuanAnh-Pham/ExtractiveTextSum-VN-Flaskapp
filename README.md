@@ -83,6 +83,8 @@ python app.py
 This project is open-sourced under the MIT License.  
 Feel free to use and modify for research or personal projects.
 
+## References 👏🏻
+The pre-trained model is from Xuan-Son Vu project: https://github.com/sonvx/word2vecVN 
 ---
 
 ## 🙌 Acknowledgements
